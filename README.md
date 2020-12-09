@@ -1,2 +1,16 @@
 # Jruan
-This file is a social media app. Users can come and log-in, registration creation along with comments, and picture upload integration. Goals and addition will be to add videos,  and banners and eventually deployment and my host services of choice will be hostgators.com is a very inexpensive way of host an assignment.
+This file is a social media app.
+-regristration availability. 
+-log-in availability
+-post comments
+-profile editing
+-profile upload image/ # goal to upload more images and videos.
+-profile log out
+-like comments availiability. 
+-conversation deletion.
+
+Thus, wishful thinking will be to turn my app into a small ecommerce site were users can come and see and comment 
+on items for sale purchase with credit card and order purchase and have it deliver to the address of choice and if local 
+it can be deliver directly with a small fee charge.
+
+Things i will keep into account will to add something like snipcart were i can add items and prices.
