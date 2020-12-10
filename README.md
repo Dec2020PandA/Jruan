@@ -13,4 +13,4 @@ Thus, wishful thinking will be to turn my app into a small ecommerce site were u
 on items for sale purchase with credit card and order purchase and have it deliver to the address of choice and if local 
 it can be deliver directly with a small fee charge.
 
-Things i will keep into account will to add something like snipcart were i can add items and prices.
+Things i will keep into account will be to add something like a shopping were i can add items and prices. I will be able to select and post items for sale.
