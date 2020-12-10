@@ -1,6 +1,6 @@
 # Jruan
 This file is a social media app.
--regristration availability. 
+-registration availability. 
 -log-in availability
 -post comments
 -profile editing
